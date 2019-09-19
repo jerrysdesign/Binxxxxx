@@ -82,8 +82,10 @@
       <td style="text-align:left">&#x4EA4;&#x4ED8;&#x6E05;&#x55AE;</td>
       <td style="text-align:left">
         <ol>
-          <li>&#x6587;&#x4EF6;&#x6307;&#x5357;&#x6587;&#x4EF6;</li>
-          <li>&#x4E3B;&#x8981;&#x756B;&#x9762; Mockup</li>
+          <li><a href="stage-1.md#e1-yuan-jian-zhi-nan-wen-jian">&#x6587;&#x4EF6;&#x6307;&#x5357;&#x6587;&#x4EF6;</a>
+          </li>
+          <li><a href="stage-1.md#e2-yuan-jian-zhi-nan-wen-jian">&#x4E3B;&#x8981;&#x756B;&#x9762; Mockup</a>
+          </li>
         </ol>
       </td>
       <td style="text-align:left">

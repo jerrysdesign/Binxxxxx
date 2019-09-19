@@ -51,7 +51,7 @@ description: UI/GUI Design
 8. Pagination
 9. Table
 10. Advanced
-    1. Select 2
+    1. Select To
 
 #### D-2 Mockup
 
