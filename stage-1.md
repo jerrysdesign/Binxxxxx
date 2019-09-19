@@ -8,6 +8,8 @@ description: UI/GUI Design
 
 檢視與評估是否投入 [Stage 2](stage-2.md)
 
+
+
 ### C 專案目標
 
 #### C-1 確認整體風格
@@ -18,6 +20,8 @@ description: UI/GUI Design
 {% hint style="info" %}
 透過 Layout 設計與 UI 元件設計組合，讓雙方理解後續階段成品之樣貌，及預測最終成果。
 {% endhint %}
+
+
 
 ### D 交付項目
 
@@ -64,6 +68,8 @@ description: UI/GUI Design
 以上為常見模型，建議於於轉案啟動前雙協商定義
 {% endhint %}
 
+
+
 ### E 交付清單
 
 #### E-1 元件指南文件
@@ -74,10 +80,14 @@ description: UI/GUI Design
 
 見 [D-2](stage-1.md#d-2-mockup)
 
+
+
 ### F 交付類型
 
 * [D-1](stage-1.md#d-1-style-guide): .sketch & .png
 * [D-2](stage-1.md#d-2-mockup): .pdf
+
+
 
 ### G 專案時程
 
@@ -87,7 +97,11 @@ description: UI/GUI Design
 時程為交付項目定義後協商之結果，啟動後涉及變更得協商變更
 {% endhint %}
 
+
+
 ### H 專案服務費
+
+120,000 NTD
 
 
 
