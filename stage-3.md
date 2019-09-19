@@ -1,2 +1,2 @@
-# Stage 3
+# Stage 3 UI Template
 
